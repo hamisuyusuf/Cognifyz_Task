@@ -1,10 +1,10 @@
 import random
 
-print("Hi welcome to the Guessing Game!, This is a number guessing game.\nYou got 5 chances to guess the number. Let's start the game")
+print("Hi welcome to the Guessing Game!, This is a number guessing game.\nYou got 8 chances to guess the number. Let's start the game")
 
 number_to_guess = random.randrange(100)
 
-chances = 5
+chances = 8
 
 guess = 0
 
